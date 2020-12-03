@@ -1,0 +1,7 @@
+git: version control for repositories
+repository: collection of folders or files related to a project
+branch: copy of the codebase (or repository)
+PULL BEFORE YOU PUSH
+merge conflicts prevent losing work
+github is a git server in the cloud
+fetch retrieves changes in the remote repository
